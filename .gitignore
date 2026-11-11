@@ -1,0 +1,24 @@
+# Binaries & Executables
+kvstore
+kvstore.exe
+test_lru
+test_lru.exe
+load_test
+load_test.exe
+
+# Object files & debug symbols
+*.o
+*.obj
+*.dSYM/
+*.pdb
+*.ilk
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+.vs/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
